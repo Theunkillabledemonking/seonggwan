@@ -11,4 +11,4 @@ pss_mx = max(first)
 pss_mz = max(second)
 
 print(f"1학기 최고 점수: {pss_mx}")
-print(f"2학기 최고 점수: {pss_mz}")
+print(f"2학기 최고 점수: {pss_mx}")

@@ -59,3 +59,4 @@ while True:
     if count <= 100:
         print("총합이 100을 초과하지 않았습니다.",[int(num) for num in numbers])
         print("최종 총합", count)
+

@@ -29,7 +29,7 @@ input_num_list = input("숫자를 입력하세오:")
 num_list = input_num_list.split(",")
 sum = 0
 output_list = []
-over_100_flag = False
+over_100_flag = False # 이거 잘 공부하자
 
 for num_str in num_list:
     num = int((num_str))
